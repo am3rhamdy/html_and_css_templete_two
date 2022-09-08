@@ -176,7 +176,7 @@ header nav ul li a:hover {
 /*end header*/
 /*start landing*/
 .landing {
-    background-image: url(images/landing.jpg);
+    background-image: url("images/landing.jpg");
     background-size: cover;
     height: 100vh;
     position: relative;
